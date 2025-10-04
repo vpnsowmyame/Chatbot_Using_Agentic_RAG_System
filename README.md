@@ -4,3 +4,6 @@ This project is structured as an **Agentic RAG (Retrieval-Augmented Generation)*
 
 The primary goal is to answer a user's question by either retrieving information from a set of ingested documents (RAG) or, if needed, searching Wikipedia for external knowledge. This decision and the final answer generation are handled by a ReAct Agent within the LangGraph framework.
 
+<p align="center">
+    <img src="https://github.com/vpnsowmyame/Chatbot_Using_Agentic_RAG_System/blob/main/chatbot.png" width="900px" alt="Unwind AI">
+</p>
